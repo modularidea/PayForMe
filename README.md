@@ -1,6 +1,6 @@
 # PayForMe (category fork)
 
-Unofficial fork of [PayForMe](https://github.com/InteractionEngineer/PayForMe), an iOS client for
+Fork of [PayForMe](https://github.com/InteractionEngineer/PayForMe), an iOS client for
 Cospend on Nextcloud & iHateMoney. For the app itself, releases, bug reports and contributing,
 please go to the official repository:
 
