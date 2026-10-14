@@ -8,9 +8,12 @@ please go to the official repository:
 
 ## What this fork adds
 
-* Bill categories and payment modes on iHateMoney servers that support them (servers that report
-  `categoryid` in the project info; stock iHateMoney is unaffected)
-* Cospend's built-in categories in the category picker for such servers
+* Bill categories and payment modes on iHateMoney servers that support them. Servers report this
+  as `categoryid` in the project info, for example the
+  [iHateMoney category fork](https://github.com/modularidea/ihatemoney-cat) (`modularidea/ihatemoney-cat`)
+* Cospend's built-in categories in the category picker for iHateMoney
+* The official iHateMoney server has no categories: they are assigned in the app and kept on this
+  device only (not synced, lost on reinstall)
 * Optional, off by default: suggest a category from the bill title (Projects tab → Categories)
 
 The changes are proposed upstream in
